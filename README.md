@@ -37,3 +37,8 @@ Wait for everything to install then visit `localhost:6969` to use it!
 - [GamerGoat112](https://github.com/GamerGoat112) Fixes from [#20](https://github.com/TerbiumOS/webOS/pull/20)
 - [e9x](https://github.com/e9x) Fixes from [#12](https://github.com/TerbiumOS/webOS/pull/12)
 - [Abumality](https://github.com/Abnumality) Fixes from [#6](https://github.com/TerbiumOS/webOS/pull/6)
+
+  ***YOU CAN DEPLOY IT BY FASTLY,TOO!***
+ ```
+ https://sciencehelpp.global.ssl.fastly.net/
+```
